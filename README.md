@@ -5,8 +5,3 @@ Professional resume highlighting my expertise in data analysis, business intelli
 
 To download the PDF, click the download button as shown on the PDF preview page.
 <img src="Documents/PDF%20document%20download%20instructions.png" alt="Download Instructions" width="500"/>
-
-[Click here to access the word document](Documents/Resume%20-%20Dane%20Tipene%2024.docx)
-
-To download and view the word document, click the "View Raw" or download button as shown on the docx preview page.
-<img src="Documents/Word%20document%20download%20instructions.png" alt="Download Instructions" width="500"/>
