@@ -9,7 +9,11 @@ Data Analyst specialising in automation and regulatory analytics. Track record b
 
 **Technical Stack**: R | Python | SQL | Tableau | Azure SQL | Machine Learning
 
+<br>
+
 * [Click here to view the PDF](Documents/Resume%20-%20Dane%20Tipene%202025-26.pdf)
 
 To download the PDF, click the download button as shown on the PDF preview page. 
 <img src="Documents/Resume_download.png" alt="Download Instructions"/>
+
+> *Last updated: March 2026*
